@@ -1,0 +1,6 @@
+python
+import math
+
+def calculate_surface_area(radius):
+    surface_area = 4 * math.pi * radius ** 2
+    return surface_area
